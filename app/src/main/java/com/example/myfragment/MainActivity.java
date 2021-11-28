@@ -10,7 +10,7 @@ import android.widget.LinearLayout;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button first, second;
+    private Button first, secondthird;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
